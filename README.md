@@ -1,5 +1,5 @@
 # Widget - Twitter Trending List
-Add the html code where you want Twitter trends to show on your site
+Add the html code where you want Twitter trends to show on your website
 
 ### html code:
 ```HTML

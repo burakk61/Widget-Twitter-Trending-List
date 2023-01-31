@@ -1,4 +1,5 @@
 # Widget - Twitter Trending List
+Add the html code where you want Twitter trends to show on your site
 
 ### html code:
 ```HTML
@@ -12,3 +13,7 @@ algeria,argentina,australia,austria,bahrain,belarus,belgium,brazil,canada,chile,
 
 ### demo:
 https://www.twitter-trending.com/other/site_add_trend/
+
+### supported
+This widget is powered by [Twitter Trending](https://www.twiter-trending.com/)
+

@@ -11,9 +11,6 @@ Add the html code where you want Twitter trends to show on your site
 
 algeria,argentina,australia,austria,bahrain,belarus,belgium,brazil,canada,chile,colombia,denmark,dominican-republic,ecuador,egypt,france,germany,ghana,greece,guatemala,india,indonesia,ireland,israel,italy,japan,jordan,kenya,korea,kuwait,latvia,lebanon,malaysia,mexico,netherlands,new-zealand,nigeria,norway,oman,pakistan,panama,peru,philippines,poland,portugal,puerto-rico,qatar,russia,saudi-arabia,singapore,south-africa,spain,sweden,switzerland,thailand,turkey,ukraine,united-arab-emirates,united-kingdom,united-states,venezuela,vietnam,worldwide
 
-### demo:
-https://www.twitter-trending.com/other/site_add_trend/
+### see demo: https://www.twitter-trending.com/other/site_add_trend/
 
-### supported
 This widget is supported by [Twitter Trending](https://www.twiter-trending.com/)
-

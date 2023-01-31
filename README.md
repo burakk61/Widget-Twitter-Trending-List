@@ -13,4 +13,4 @@ algeria,argentina,australia,austria,bahrain,belarus,belgium,brazil,canada,chile,
 
 ### see demo: https://www.twitter-trending.com/other/site_add_trend/
 
-This widget is supported by [Twitter Trending](https://www.twiter-trending.com/)
+This widget is supported by [Twitter Trending](https://www.twitter-trending.com/)
